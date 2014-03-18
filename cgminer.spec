@@ -38,7 +38,6 @@ This is a miner for Bitcoin.
 	--enable-scrypt \
 	--enable-bflsc \
 	--%{?with_knc:en}%{!?with_knc:dis}able-knc \
-	--enable-opencl \
 	--enable-hashfast \
 	--enable-bitforce \
 	--enable-klondike \
